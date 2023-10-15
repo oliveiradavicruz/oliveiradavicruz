@@ -25,5 +25,5 @@ EM BREVE
 
 ## Contato
 
-- 📫 **E-mail:** seuemail@example.com
+- 📫 **E-mail:** oliveiracruzdavia@gmail.com
 Fique à vontade para explorar meus projetos e entrar em contato comigo se você quiser colaborar ou apenas bater um papo sobre tecnologia. Vamos aprender e crescer juntos! 😄
